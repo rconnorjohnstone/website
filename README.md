@@ -10,4 +10,4 @@ implementing more of my own work.
 And since github (as far as I can tell) doesn't provide a damn link to the page
 on the repo site:
 
-[rconnorjohnstone.github.io/website](rconnorjohnstone.github.io/website)
+[rconnorjohnstone.github.io/website](https://rconnorjohnstone.github.io/website/)
