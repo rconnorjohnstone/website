@@ -8609,3 +8609,45 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+/* This will all be my code after the break */
+/* ==========================================================================*/
+
+.nav_bar {
+  display: flex;
+  height: 10vh;
+  width: 100vw;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  background-color: #0d0d0d;
+  position: fixed;
+}
+
+.spacer {
+  height: 10vh;
+  width: 100vw;
+}
+
+
+.nav {
+  flex-grow: 2;
+  font-size: 4vh;
+}
+
+.nav_link {
+  margin: 0px 1vw;
+}
+
+.name_header {
+  flex-grow: 1;
+  text-align: right;
+  font-size: 6vh;
+  margin: 0px 1.5vw 0px 0px;
+}
+
+.article {
+  /*background-color: #333333;*/
+  margin: 5vh 10vw 5vh 10vw;
+  padding: 3vh 5vw 3vh 5vw;
+}
