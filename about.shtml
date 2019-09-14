@@ -29,13 +29,13 @@
             <a href="index.html">Home</a>
         </span>
         <span class="nav_link">
-          <a href="posts/2019-09-11.html">Blog</a>
+          <a href="posts/current_post.shtml">Blog</a>
         </span>
         <span class="nav_link">
           <a href="index.html">Projects</a>
         </span>
         <span class="nav_link">
-          <a href="about.html">About</a>
+          <a href="about.shtml">About</a>
         </span>
 
         </div>

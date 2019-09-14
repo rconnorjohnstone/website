@@ -8261,6 +8261,7 @@ input, select, textarea {
 		background-color: inherit;
 		width: 100%;
 		overflow-x: hidden;
+    height:auto;
 	}
 
 		#wrapper > .invert {
@@ -8663,6 +8664,10 @@ input, select, textarea {
   .name_header {
     font-size: 2.5vw;
   }
+}
+
+.blog {
+  height: 100%
 }
 
 .article {

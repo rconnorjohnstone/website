@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Richard Connor Johnstone - Sample Article</title>
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport" 
+      content="width=device-width, initial-scale=1, user-scalable=no" />
+
+    <link rel="stylesheet" href="../assets/css/main.css" />
+
+    <noscript>
+      <link rel="stylesheet" href="../assets/css/noscript.css" />
+    </noscript>
+
+  </head>
+  <body class="is-preload">
+
+    <!-- Wrapper -->
+    <div id="wrapper" class="divided">
+
+      <!-- One -->
+      <section class="nav_bar">
+
+        <div class="nav">
+
+        <span class="nav_link">
+            <a href="../index.html">Home</a>
+        </span>
+        <span class="nav_link">
+          <a href="../current_post.shtml">Blog</a>
+        </span>
+        <span class="nav_link">
+          <a href="../index.html">Projects</a>
+        </span>
+        <span class="nav_link">
+          <a href="../about.shtml">About</a>
+        </span>
+
+        </div>
+
+        <div class="name_header">
+
+          Richard <strong>Connor</strong> Johnstone
+
+        </div>
+
+      </section>
+
+      <section class="spacer"></section>
+
+      <!-- Two -->
+      <section class="blog">
+
+        <!--#include virtual="2019-09-11.html" -->
+
+      </section>
+
+      <!-- Footer -->
+      <footer class="wrapper style1 align-center">
+
+        <div class="inner">
+
+          <ul class="icons">
+            <li>
+              <a  href="https://github.com/rconnorjohnstone" 
+                  class="icon brands style2 fa-github">
+                <span class="label">Github</span>
+              </a>
+            </li>
+
+            <li>
+              <a  href="https://instagram.com/r_connor_johnstone" 
+                  class="icon brands style2 fa-instagram">
+                <span class="label">Instagram</span>
+              </a>
+            </li>
+
+            <li>
+              <a  href="https://linkedin.com/in/rconnorjohnstone" 
+                  class="icon brands style2 fa-linkedin-in">
+                <span class="label">LinkedIn</span>
+              </a>
+            </li>
+
+            <li>
+              <a  href="mailto:connor@richardconnorjohnstone.com" 
+                  class="icon style2 fa-envelope">
+                <span class="label">Email</span>
+              </a>
+            </li>
+          </ul>
+
+          <p>&copy; Richard Connor Johnstone.</p>
+
+        </div>
+
+      </footer>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.scrollex.min.js"></script>
+  <script src="assets/js/jquery.scrolly.min.js"></script>
+  <script src="assets/js/browser.min.js"></script>
+  <script src="assets/js/breakpoints.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+
+  </body>
+</html>
