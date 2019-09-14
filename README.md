@@ -11,3 +11,6 @@ And since github (as far as I can tell) doesn't provide a damn link to the page
 on the repo site:
 
 [rconnorjohnstone.github.io/website](https://rconnorjohnstone.github.io/website/)
+
+**However**: keep in mind that GitHub pages does not support Server Side Includes,
+which I'm now using. So it might not look right.
