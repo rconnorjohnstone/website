@@ -8674,3 +8674,17 @@ input, select, textarea {
   margin: 5vh 10vw 5vh 10vw;
   padding: 3vh 5vw 3vh 5vw;
 }
+
+.article .main {
+  width: 95%;
+  height: auto;
+  margin: auto auto;
+}
+
+.article .interior {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin: 3rem auto;
+}
+
